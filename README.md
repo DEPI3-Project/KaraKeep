@@ -5,11 +5,8 @@ KaraKeep is a mobile app that makes recycling easy by turning household waste in
 
 ## 👥 Team Members
 - Motaz Samir Yunus Ahmed.
-- Ethar Amgad Abdul Aziz.
 - Hassan Amr Mohamed Selim.
 - Samah Ateya Elazab Sakr.
-- Mariam Ezat Samaan Dawood.
-- Mostafa Sayed Abdulgayed.
 
 ---
 
